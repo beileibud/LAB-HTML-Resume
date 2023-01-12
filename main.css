@@ -1,0 +1,37 @@
+body{
+    background-color: rgb(204, 191, 174);
+  }
+  
+  h1{
+    color:rgb(36, 31, 21);
+    font-family:'Gill Sans', 'Gill Sans MT', 'Trebuchet MS', sans-serif;
+    text-align: center;
+    padding:10 20 20 10px;
+  }
+  
+  h2{
+    color:rgb(159, 122, 88);
+  }
+  
+  #articalOne{
+    font-family:'Lucida Sans', 'Lucida Sans Regular', 'Lucida Grande', 'Lucida Sans Unicode', Geneva, Verdana, sans-serif;
+    border: 5px solid hwb(33 19% 44%);
+    padding: 3px 0 0 3px;
+    margin: 2px;
+  }
+  
+  #articalTwo{
+    font-family: Helvetica, sans-serif;
+    border: 1px dotted chocolate;
+    padding: 3px 0 0 3px;
+    margin: 2px;
+  }
+  
+  #articalThree{
+    font-family:'Gill Sans';
+    border: 5px solid  hsl(33, 91%, 21%);
+    padding: 3px 0 0 3px;
+    margin:2px;
+  }
+  
+  
